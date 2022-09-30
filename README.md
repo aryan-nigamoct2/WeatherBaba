@@ -18,7 +18,7 @@ WeatherBaba is a React app which fetch and shows weather using www.weatherapi.co
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/aryan-nigamoct2/WeatherBaba.git
 ```
 
 Go to the project directory
