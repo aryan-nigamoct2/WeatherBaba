@@ -18,24 +18,24 @@ WeatherBaba is a React app which fetch and shows weather using www.weatherapi.co
 Clone the project
 
 ```bash
-  git clone https://github.com/aryan-nigamoct2/WeatherBaba.git
+git clone https://github.com/aryan-nigamoct2/WeatherBaba.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+cd my-project
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm run start
+npm run start
 ```
 
