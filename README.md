@@ -24,7 +24,7 @@ git clone https://github.com/aryan-nigamoct2/WeatherBaba.git
 Go to the project directory
 
 ```bash
-cd my-project
+cd WeatherBaba
 ```
 
 Install dependencies
